@@ -18,4 +18,5 @@ API设置页面，可选deepseek和qwen
 ![image](https://github.com/user-attachments/assets/db5d8c86-1b9f-479f-90a2-5139a513914a)
 
 最后分析页面，根据分析结果进行追问
+![image](https://github.com/user-attachments/assets/0a18125c-7fff-46f8-ad84-5e6ccc2267c9)
 
