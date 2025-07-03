@@ -1,4 +1,4 @@
-# Ai-Auto
+# Ai-Auto/burp智能分析数据包插件
 bp插件，借助Ai分析数据包
 目前主要实现的功能:  
 1.右键发送request和response到Ai去分析。  
